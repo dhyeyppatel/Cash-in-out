@@ -1,0 +1,9 @@
+﻿# Ignore everything by default
+/*
+
+# Allow these two project folders
+!cash-in-out/
+!cash-in-out-backend/
+
+# Keep this file
+!.gitignore

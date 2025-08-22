@@ -1,0 +1,16 @@
+﻿# PHP/XAMPP
+vendor/
+composer.lock
+.env
+*.env
+*.log
+tmp/
+uploads/
+config.php
+db.php
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
